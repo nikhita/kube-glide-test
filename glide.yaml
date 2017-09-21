@@ -1,0 +1,5 @@
+package: github.com/sttts/kube-glide-test
+import:
+- package: k8s.io/kube-aggregator
+  version: master
+  repo: https://github.com/sttts/kube-aggregator
