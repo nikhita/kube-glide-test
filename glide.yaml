@@ -1,7 +1,7 @@
 package: github.com/sttts/kube-glide-test
 import:
 - package: k8s.io/kube-aggregator
-  version: master
+  version: release-1.8
   repo: https://github.com/sttts/kube-aggregator
 - package: k8s.io/apimachinery
   repo: https://github.com/sttts/apimachinery
