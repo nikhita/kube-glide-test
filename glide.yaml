@@ -2,16 +2,16 @@ package: github.com/sttts/kube-glide-test
 import:
 - package: k8s.io/kube-aggregator
   version: release-1.9
-  repo: https://github.com/sttts/kube-aggregator
+  repo: https://github.com/kubernetes-nightly/kube-aggregator
 - package: k8s.io/apimachinery
   version: release-1.9
-  repo: https://github.com/sttts/apimachinery
+  repo: https://github.com/kubernetes-nightly/apimachinery
 - package: k8s.io/client-go
   version: release-6.0
-  repo: https://github.com/sttts/client-go
+  repo: https://github.com/kubernetes-nightly/client-go
 - package: k8s.io/api
   version: release-1.9
-  repo: https://github.com/sttts/api
+  repo: https://github.com/kubernetes-nightly/api
 - package: k8s.io/apiserver
   version: release-1.9
-  repo: https://github.com/sttts/apiserver
+  repo: https://github.com/kubernetes-nightly/apiserver
