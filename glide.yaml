@@ -1,6 +1,6 @@
 package: github.com/sttts/kube-glide-test
 import:
 - package: k8s.io/kube-aggregator
-  version: release-1.9
+  version: release-1.10
 - package: k8s.io/client-go
-  version: v6.0.0
+  version: v7.0.0
