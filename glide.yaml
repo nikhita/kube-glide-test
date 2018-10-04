@@ -1,4 +1,4 @@
-package: github.com/sttts/kube-glide-test
+package: github.com/nikhita/kube-glide-test
 import:
 - package: k8s.io/kube-aggregator
   version: release-1.12
