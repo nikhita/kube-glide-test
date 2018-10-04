@@ -2,5 +2,5 @@ package: github.com/nikhita/kube-glide-test
 import:
 - package: k8s.io/kube-aggregator
   version: release-1.12
-- package: k8s.io/client-go
+- package: github.com/nikhita/client-go
   version: v9.0.0
